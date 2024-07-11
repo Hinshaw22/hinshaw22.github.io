@@ -9,4 +9,4 @@ Prerequisite Knowledge: (Century Gothic, 14 pt., Bold) These are statements of w
 
 Length of Completion: What is the length of the lesson? (Verdana, 12pt)
 
-Level of Instruction: (Century Gothic, 14 pt., Bold) Is this lesson intended for high school, middle school, or elementary school. This the  lesson appropriate for advanced, intermediate, or beginner learners? (Verdana, 12 pt)
+Level of Instruction: (Century Gothic, 14 pt., Bold) Is this lesson intended for high school, middle school, or elementary school? This the  lesson appropriate for advanced, intermediate, or beginner learners? (Verdana, 12 pt)
